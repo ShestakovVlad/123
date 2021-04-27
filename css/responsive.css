@@ -1,0 +1,258 @@
+@media(max-width: 1024px){
+    img.ovoshi{ padding-left: 0px;
+    }  
+    #Text1{word-spacing: 10px}
+    #sil2{word-spacing: 10px;}
+    img.ovoshil{padding-left:50px;}
+    .bf{width:300px;}
+    #bgv{width: 300px;}
+    div#abg.container > div.row > div.col-4  > img{width: 100%;}
+    #dio3{width:100%;}
+    .ht{font-size: 45px;}
+    #input2{width: 450px;}
+    #interested{width: 450px;} 
+    #inter{width:200px; height: 55px; border-radius: 10px;}
+    #btn4{height: 55px; width: 150px;}  
+}
+@media(max-width: 768px){
+    nav{visibility: hidden;}
+.menu{visibility: unset;}  
+.nav{width: 100%;} 
+.sizp{width: 350px;} 
+.size{font-size: 40px;}
+.ovoshi{width: 225px;}
+.ovoshitext{font-size: 20px;}
+.otext{font-size: 14px;}
+.men{width: 30%; height: 30%;}
+.anv{font-size: 10px;}
+#Text1{word-spacing: 10px;font-size: 13px;}
+#sil2{word-spacing: 2px;}
+#sil2>span>img{width: 25px; height: 25px;}
+img.ovoshil{padding-left:10px;}
+#header2{padding-bottom: 50px;}
+.bf{width:200px;height: 200px;}
+    #bgv{width: 200px; margin-block-start: -5px; height:80px;}
+    .aboutt{font-size:17px;}
+    .atext{font-size: 15px;}
+    .toffercont__title{font-size: 36px}
+    .ht{font-size: 35px;}
+    #header3{padding-bottom: 50px;}
+    .text{font-size: 20px; padding-top: 20px;} 
+    #input2{width: 250px;}
+    #interested{width: 250px;} 
+    #inter{width:180px; height: 55px; border-radius: 10px; }
+    #btn4{height: 55px; width: 150px;}  
+    .input{width: 250px;}
+    #kapcha{float:right; margin-block-start: -50px;}    
+}
+@media(max-width: 640px){
+#foot{font-size: 10px;}
+.footer{height:40px ;}
+.silke{font-size: 9px;}
+#sil2>span>img{width: 16px; height: 16px;}
+.otext{font-size: 10px;}
+.ovoshitext{font-size: 15px;}
+img.ovoshil{padding-left:10px; width: 100%;}
+.ovoshi{width: 100%;}
+.size{font-size: 30px;}
+.offercont__title{font-size:20px;}
+.offercont__text{font-size:15px;}
+.sizp{width: 195px;}
+.anv{font-size: 8px; } 
+.men{width: 25%; height: 25%; margin-bottom: 10px;}
+#pc{width: 25%; height: 25%;}
+.heads{font-size: 30px;}
+.searchinput{width: 220px;}
+.searchinput input{width: 200px;}
+.br0{margin-bottom:100px; width: 120px;
+    height: 45px;}
+#header{background-size: 200%;}
+.menu__box{width: 160px;}
+.menu__item{font-size: 10px; padding: 12px 12px;}
+#header2{padding-bottom: 50px;}
+.bf{width:150px;height: 150px;}
+    #bgv{width: 150px; margin-block-start: -5px; height:80px;}
+    .aboutt{font-size:17px;}
+    .atext{font-size: 13px;}
+    .qtext{font-size: 13px;}
+    .vegetext{font-size: 16px;}
+    .toffercont__title{font-size: 26px}
+    .toffercont__star{font-size: 26px}
+    .toffercont__text{font-size:15px}
+    .ts{font-size:15px}
+    .ts2{font-size:15px; margin-block-start: -44px;}
+    div.container>img{height: 50px;}
+    .ht{font-size: 25px;}
+    #header3{padding-bottom: 50px;}
+    .text{font-size: 12px; padding-top: 20px; margin-inline-start:90px}
+    #pics{width: 60px;}
+    #input2{width: 250px;}
+    #interested{width: 250px;} 
+    #inter{width:110px; height: 55px; border-radius: 10px; }
+    #btn4{height: 55px; width: 130px; padding-left: 10px; padding-right: 10px;}  
+    .input{width: 250px;}
+    #kapcha{float:right; margin-block-start: -50px;} 
+    #texxt{font-size: 12px;}     
+}
+@media(max-width: 480px){
+.men{width: 20px; height: 20px; margin-bottom: 0px;}
+.anv{font-size: 10px; }
+#header{background-size: 275%;} 
+.heads{font-size: 25px;}
+.ovoshitext{font-size: 12px;} 
+#Text1{word-spacing: 5px;font-size: 8px;}  
+#foot{font-size: 8px;}
+.footer{height:35px ;}
+.silke{font-size: 8px;}
+#sil2>span>img{width: 16px; height: 16px;} 
+#sil2{padding-left: 0px;}
+#header2{padding-bottom: 50px;}
+.bf{width:125px;height: 125px;}
+    #bgv{width: 125px; margin-block-start: 0px; height:80px;}
+    .aboutt{font-size:15px;}
+    .atext{font-size: 13px;}
+    .qtext{font-size: 10px;}
+    .vegetext{font-size: 13px;}
+    .toffercont__title{font-size: 20px}
+    .toffercont__star{font-size: 20px}
+    .toffercont__text{font-size:13px}
+    .ts{font-size:13px}
+    .ts2{font-size:13px; margin-block-start: -44px;}
+    div.container>img{height: 50px;}
+    .ht{font-size: 20px;}
+    #header3{padding-bottom: 50px;}
+    .text{font-size: 12px; padding-top: 20px; margin-inline-start:60px}
+    #pics{width: 50px;}
+    .offercont__star{font-size: 15px}
+    .btn-rounded{border-radius: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+    font-size: 10px;}
+    .btn-rounded img{width: 35px;}
+    #input2{width: 200px;}
+    #interested{width: 200px;} 
+    #inter{width:200px; height: 55px; border-radius: 10px; }
+    #btn4{height: 55px; width: 130px; padding-left: 10px; padding-right: 10px;}  
+    .input{width: 200px;}
+    #kapcha{float:right; margin-block-start: -50px;} 
+    #texxt{font-size: 12px;}     
+}
+@media(max-width: 400px){
+.men{width: 20px; height: 20px; margin-bottom: 0px;}
+.anv{font-size: 7px; }
+div.naveg>div.container>div.row>div.col{width: 33px;} 
+div.naveg>div.container>div.row>div.col-2{width: 66px;}
+div#dio.col-4{width: 132px;}
+div#dio.col{width: 200px;}
+#header{background-size: 300%;} 
+.heads{font-size: 20px;}
+.ovoshitext{font-size: 10px;} 
+#Text1{word-spacing: 5px;font-size: 8px;}  
+#foot{font-size: 7px;}
+.footer{height:35px ;}
+.silke{font-size: 7px;}
+#sil2>span>img{width: 10px; height: 12px;} 
+div.col-9{width: 293px;}
+div.col-3{width: 107px;}
+.searchinput{width: 180px;}
+.searchinput input{width: 160px;}
+.otext{font-size: 8px;}
+.size{font-size: 20px}
+#header2{padding-bottom: 50px;}
+.bf{width:110px;height: 110px;}
+    #bgv{width: 110px; margin-block-start: 0px; height:50px;}
+    .aboutt{font-size:12px;}
+    .atext{font-size: 10px;}
+    .qtext{font-size: 10px;}
+    .vegetext{font-size: 11px;}
+    .toffercont__title{font-size: 17px}
+    .toffercont__star{font-size: 17px}
+    .toffercont__text{font-size:10px}
+    .ts{font-size:13px}
+    .ts2{font-size:13px; margin-block-start: -44px;}
+    div.container>img{height: 50px;}
+    div.col-8{width: 265px;}
+    .bun{font-size: 10px;}
+    .ht{font-size: 15px;}
+    #header3{padding-bottom: 50px;}
+    .text{font-size: 10px; padding-top: 5px; margin-inline-start:60px}
+    #pics{width: 40px;}
+    .offercont__star{font-size: 10px; margin-bottom: 0px;}
+    .btn-rounded{border-radius: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+    font-size: 10px;}
+    .btn-rounded img{width: 35px;}
+    .chars{font-size: 10px;}
+    #pc1{width: 100%;}    
+    #input2{width: 180px;}
+    #interested{width: 180px;} 
+    #inter{width:180px; height: 55px; border-radius: 10px; margin-block-start: -5px;}
+    #btn4{height: 55px; width: 130px; padding-left: 10px; padding-right: 10px;}  
+    .input{width: 190px;}
+    #kapcha{float:right; margin-block-start: -42px; padding-right: -10px; width: 60px;} 
+    #texxt{font-size: 10px;} 
+}
+@media(max-width: 320px){
+    .men{width: 20px; height: 20px; margin-bottom: 0px;}
+    .anv{font-size: 6px; }
+    div.naveg>div.container>div.row>div.col{width: 26px;} 
+    div.naveg>div.container>div.row>div.col-2{width: 53px;}
+    div#dio.col-4{width: 106px;}
+    div#dio.col{width: 160px;}
+    #header{background-size: 375%;} 
+    .heads{font-size: 17px;}
+    .ovoshitext{font-size: 8px;} 
+    #Text1{word-spacing: 5px;font-size: 7px;}  
+    #foot{font-size: 7px;}
+    .footer{height:35px ;}
+    .silke{font-size: 7px;}
+    #sil2>span>img{width: 8px; height: 15px;} 
+    div.col-9{width: 200px;}
+    div.col-3{width: 120px;}
+    .searchinput{width: 140px;}
+    .searchinput input{width: 120px;}
+    .otext{font-size: 8px;}
+    .size{font-size: 20px}
+    .sizp{width: 160px; height: 160px;}
+    #header2{padding-bottom: 50px;}
+.bf{width:90px;height: 90px;}
+    #bgv{width: 90px; margin-block-start: 0px; height:50px;}
+    .aboutt{font-size:12px;}
+    .atext{font-size: 10px;}
+    .qtext{font-size: 8px;}
+    .vegetext{font-size: 8px;}
+    .toffercont__title{font-size: 17px}
+    .toffercont__star{font-size: 17px}
+    .toffercont__text{font-size:10px}
+    .ts{font-size:13px}
+    .ts2{font-size:13px; margin-block-start: -44px;}
+    div.container>img{height: 50px;}
+    div.col-8{width: 265px;}   
+    .bun{font-size: 8px;}
+    .ht{font-size: 12px;}
+    #header3{padding-bottom: 50px;}
+    .text{font-size: 8px; padding-top: 5px; margin-inline-start:40px}
+    #pics{width: 35px;}
+    .offercont__star{font-size: 10px; margin-bottom: 0px;}
+    .btn-rounded{border-radius: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+    font-size: 10px;}
+    .btn-rounded img{width: 35px;}
+    .chars{font-size: 10px;}
+    #pc1{width: 100%; margin-block-start: 0px;}
+    #input2{width: 140px;}
+    #interested{width: 140px;} 
+    #inter{width:140px; height: 55px; border-radius: 10px; margin-block-start: -10px;}
+    #btn4{height: 55px; width: 130px; padding-left: 10px; padding-right: 10px;}  
+    .input{width: 140px;}
+    #kapcha{float:right; margin-block-start: -42px; padding-right: -10px; width: 60px;} 
+    #texxt{font-size: 8px;}      
+}

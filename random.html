@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">    
+        <link href="css/random.css" rel="stylesheet">
+        </head>>
+<div class="results">
+    <div id="cat_result" class="result">
+      <p>Random Cat Placeholder</p>
+    </div>
+    <div id="dog_result" class="result">
+      <p>Random Dog Placeholder</p>
+      </div>
+  </div>
+      <div class="buttons">
+        <button id="cat_btn">Get Cat</button>
+        <button id="dog_btn">Get Dog</button>
+        </div>
+              <div class="capital">
+                <h1 class="capital-title">Список городов</h1>
+                <div class="row">
+                <div class="col-5">
+                <ul id="spisok" class="capital">
+      
+                </ul>
+            </div>
+            </div>
+            </div>
+        <script> 
+            fetch('https://restcountries.eu/rest/v2/regionalbloc/eu')
+            .then((response) =>{
+            return response.json();
+            })
+            .then((resp) => {
+            var ListOfCapitals=document.createElement('ul');
+            ListOfCapitals.classList.add("capital");
+            resp.forEach(function(item) {
+            var listViewItem=document.createElement('li');
+            listViewItem.appendChild(document.createTextNode(item.capital));
+            ListOfCapitals.appendChild(listViewItem);
+            });
+            document.getElementsByClassName("col-5")[0].getElementsByClassName("capital")[0].appendChild(ListOfCapitals)
+            })
+            ;
+        </script>
+      <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+      <script src="js/random.js"></script>
+    </body>
+    </html>
